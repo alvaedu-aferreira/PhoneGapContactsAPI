@@ -52,7 +52,3 @@ ios/www/
 # platforms
 platforms
 /platforms
-
-
-#ide project project files
-../.idea
